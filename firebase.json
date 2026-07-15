@@ -1,6 +1,0 @@
-{
-  "firestore": {
-    "rules": "firestore.rules",
-    "database": "ai-studio-aura-376a17d6-37d1-4746-b011-6c05d7eaa093"
-  }
-}
